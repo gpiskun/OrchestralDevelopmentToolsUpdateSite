@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Orchestral Development Tools" url="http://localhost">
+   <description name="Orchestral Development Tools">
       Use this update site to install Orchestral Development Tools.
    </description>
    <feature url="features/EclipseDance_1.0.0.final.jar" id="EclipseDance" version="1.0.0.final">
